@@ -552,12 +552,3 @@ simples para um sistema interativo com diferentes funcionalidades.
 
 Estudante de Desenvolvimento de Sistemas
 
-<p align="center">
-
-<strong>Atividades de Python com Flet</strong>
-
-<br>
-
-Desenvolvimento de Sistemas — SENAI
-
-</p>
